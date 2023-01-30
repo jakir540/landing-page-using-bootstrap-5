@@ -7335,7 +7335,7 @@ textarea.form-control-lg {
 
 /* rtl:end:remove */
 .text-primary {
-  color: #0c2e8a !important;
+  color: #0c2e8a  !important;
 }
 
 .text-secondary {
@@ -7343,7 +7343,7 @@ textarea.form-control-lg {
 }
 
 .text-success {
-  color: #198754 !important;
+  color: #50d8af !important;
 }
 
 .text-info {
